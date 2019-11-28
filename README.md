@@ -30,7 +30,7 @@ imagepath isnot C:\Users\Lychee\Desktop\homework.exe 2019302120091 exclude
 ![yuxing](img/屏幕截图(5).png)
 
 4.查找到homework.exe对电脑的操作行为，即对屏幕进行截图。
-![yuxing](img/屏幕截图(4).png)
+![yuxing](img/1.jpg)
 
 ###**一点点感受**
 1.使用过滤器不能重复使用过多，要及时使用reset filter重置过滤器并再次过滤；
